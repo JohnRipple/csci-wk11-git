@@ -5,3 +5,4 @@ git add <file name> - adds file name for commit
 git commit -m 'message here' - commits file
 git push origin master - pushes the file to the master branch
 touch <file name> - creates a new file in the directory
+git clone <https link here> - clones respository from link
